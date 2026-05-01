@@ -1,0 +1,2 @@
+-dontwarn com.github.mikephil.charting.**
+-keep class com.github.mikephil.charting.** { *; }
