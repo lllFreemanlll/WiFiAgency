@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WiFi Body Detector</string>
+    <string name="start_scanning">Start Detection</string>
+    <string name="stop_scanning">Stop Detection</string>
+    <string name="signal_strength">Signal Strength</string>
+    <string name="detection_status">Status: Idle</string>
+    <string name="no_detection">No movement detected</string>
+    <string name="body_detected">MOVEMENT DETECTED</string>
+    <string name="signal_rssi">RSSI</string>
+    <string name="confidence">Confidence</string>
+</resources>
